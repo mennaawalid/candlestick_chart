@@ -1,6 +1,7 @@
 # finance_s
 
-A new Flutter project.
+The App uses fingerprint authentication to get access to the app.
+The app request the user to select an interval, start date and end date, then performs a get request from api and displays the returned data as a candlestick chart. 
 
 ## Getting Started
 
